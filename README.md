@@ -1,6 +1,5 @@
 # DESCurtin
-Implementation of the Data Encryption Standard (DES) Algorithm as an Assigent of the Subject Fundamental Concepts of Criptography 220  
-from Curtin University, Semester 1 2014.  
+Implementation of the Data Encryption Standard (DES) Algorithm as an Assigent of the Subject Fundamental Concepts of Criptography 220 from Curtin University, Semester 1 2014.  
 ## Assignment
 ### Implement DES in C/C++ or Java. The requirements are follows:  
 * The input of plaintext for your code is required to be any text file instead of its direct binary representation.  
